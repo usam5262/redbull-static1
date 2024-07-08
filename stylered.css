@@ -1,0 +1,402 @@
+
+
+/* main nav bar */
+.html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+.mainnavbar{
+ display: flex;
+ align-items: center;
+ margin-right: 0px;
+    background-color:white;
+    height: 68px;
+width: 1260px;
+
+
+}
+.logoandtext{
+    margin-left: 25px;
+}
+
+.menuicon{
+margin-left: 20px;
+}
+.border{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 38px;
+    width: 400px;
+    border: 1px solid rgb(200, 198, 198);
+    border-radius: 30px;
+}
+.navtext{
+    background-color: rgb(245, 240, 240);
+    margin-left: 200px;
+    font-size: 1rem;
+
+}
+.searchicon{
+    margin-left: 370px;
+}
+/* firstbody  */
+.firstbody{
+    display: flex;
+    background-color:white;
+    height:1135px ;
+    width: 1250px;
+}
+.canpic1{
+    margin-top: 250px;
+    margin-left: 160px;
+}
+.f1t1{
+    text-decoration: underline 3px red ;
+    font-size: 16px;
+    font-weight: 700px;
+    line-height: 50px;
+}
+.f1t2{
+    margin-top: 50px;
+    font-size: 52px;
+    line-height: 0px;
+}
+.f1t3{
+    line-height: 0px;
+    margin-top: 0px;
+    font-size: 52px;
+    margin-bottom: 50px;
+}
+.flt4hieght{
+    margin-top: 100px;
+}
+.f1t4{
+    color: darkgray;
+    font-size: 24px;
+    font-weight: 60px;
+}
+.firstbodytext{
+    margin-top: 330px;
+    margin-left: 200px;
+}
+/* body2 */
+.secondbody{
+    background-color:white;
+    display: flex;
+    height:900px ;
+    width: 1250px;
+}
+.canpic2{
+    margin-left: 180px;
+
+}
+.secondbodytext{
+     margin-left: 200px; 
+}
+.content-box{
+    
+    height: 645px;
+    width: 530px;
+}
+.f2c1{
+    margin-bottom: 40px;
+    background-color: #FAF9F6;
+    display: flex;
+    padding: 30px;
+    height: 30px;
+    width: 480px;
+     font-size: 28px;
+     font-weight: 200;
+}
+.f2heading{
+    font-size: 48px;
+
+}
+.f2cont1{
+    margin-left: 360px;
+}
+.f2cont2{
+    margin-left: 367px;
+}
+.f2cont3{
+    margin-left: 216px;
+}
+.f2cont4{
+    margin-left: 389px;
+}
+.f2cont5{
+    margin-left: 385px;
+}
+.body2button{
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 30px;
+    background-color: #DB0A40;
+    height: 48px;
+    width: 213px;
+}
+/* body3 */
+
+.thirdbody{
+    margin-top: 90px;
+    background-color:white;
+    height: 900px;
+    width: 1250px;
+}
+.thirdbodypic{
+    margin-top: 100px;
+}
+/* forth body */
+.forthbody{
+    margin-top: 90px;
+    background-color: white;
+    height: 900px;
+    width: 1250px;
+}
+.forthbodytext{
+    font-weight: 200px;
+    margin-left: 350px;
+    font-size: 40px;
+}
+.fourdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    gap: 10px;
+}
+.candiv1{
+
+    background-color:rgb(248, 138, 13);
+    width: 300px;
+    height: 700px;
+}
+.candiv2{
+    
+    background-color: white;
+    width: 300px;
+    height: 700px;
+}
+.candiv3{
+    
+    background-color: rgb(252, 233, 22);
+    width: 300px;
+    height: 700px;
+}
+.candiv4{
+    
+    background-color:rgb(200, 16, 16);
+    width: 300px;
+    height: 700px;
+}
+.orangecan{
+    margin-top: 90px;
+    height: 500px;
+    width: 200px;
+    padding: 0%;
+    margin-left: 50px;
+}
+.normalcan{
+    margin-top: 95px;
+    margin-left: 50px;
+    height:490px;
+    width: 200px;
+}
+.yellowcan{
+    margin-top: 98px;
+    margin-left: 50px;
+    height:490px;
+    width: 200px;
+    
+}
+.redcan{
+    margin-top: 90px;
+    margin-left: 50px;
+    height: 510px;
+    width: 200px;
+}
+/* fifthbody */
+.fifthbody{
+    background-color: white;
+    margin-top: 80px;
+    height: 700px;
+    width: 1250px;
+}
+.fifthbodypic{
+height: 700px;
+width: 1250px;
+}
+/* sixthbody */
+.sixthbody{
+    display: flex;
+    align-items: center;
+    background-color:white;
+    height: 700px;
+    width: 1250px;
+    margin-top: 80px;
+
+}
+.sixthbodypic{
+    margin-top: 100px;
+    width: 600px;
+    height: 300px;
+}
+.sixthtext{
+    background-color: #FAF9F6;
+    margin-left: 80px;
+    height: 625px;
+    width: 530px;
+}
+.sixthbodybutton{
+    border: 1px solid black;
+    background-color: #FAF9F6;
+    height: 48px;
+    width: 242px;
+    font-size: 16px;
+     border-radius: 50px;
+     
+}
+.button{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* seventhbody */
+.seventhbody{
+    margin-top: 50px;
+    background-color: white;
+    height: 790px;
+    width: 1250px;
+}
+.seventhheading{
+    margin-left: 80px;
+    font-size: 20px;
+  
+}
+.seventhbodypic{
+    margin-top: 60px;
+}
+/* footer1 */
+.footer1{
+    display: flex;
+    align-content: center;
+    height: 790px;
+    width: 1250px;
+    background-color:white;
+    
+}
+
+.footer1text1{
+    margin-left: 50px;
+    background-color:white;
+    width: 550px;
+    height: 620px;
+}
+.footer1text2{
+    margin-left: 40px;
+   background-color:white;
+    width: 550px;
+    height: 620px;
+}
+.footer1searchbar{
+    display: flex;
+}
+.footericon{
+margin-left: 20px;
+}
+.footersearch{
+    margin-top: 127px;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 45px;
+    width: 460px;
+}
+.robo{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    
+}
+.robobutton{
+    border: none;
+    margin-left: 40px;
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 50px;
+    background-color: #DB0A40;
+    color: white;
+    font-size: 16px;
+}
+.robotext{
+    display: flex;
+    align-items: center;
+}
+.footer2{
+    height: 400px;
+    width: 1250px;
+    background-color: white ;
+}
+.footer2{
+    display: flex;
+    
+}
+.footer2text1{
+    font-size: 19px;
+    height: 330px;
+    width: 350px;
+    margin-left: 60px;
+    background-color: white;
+    
+}
+.footer2text2{
+    font-size: 19px;
+    height:330px ;
+    width: 350px;
+    margin-left: 40px;
+    background-color:white;
+    
+}
+.copyright{
+    font-size: 19px;
+    margin-left: 530px;
+    height: 330px;
+    width: 350px;
+    background-color: white;
+
+}
+.countryselector{
+    margin-bottom: 40px;
+    margin-left: 900px;
+    display: flex;
+    align-items: center;
+    
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 40px;
+    width: 340px;
+}
+.countryname{
+    margin-left: 50px;
+    
+
+}
+.flag{
+    margin-left: 10px;
+}
+.droparrow{
+    margin-left: 130px;
+    height: 20px;
+    width: 20px;
+}
